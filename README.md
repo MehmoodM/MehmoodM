@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mubashar Mehmood</h1>
-<h3 align="center">Researcher & Development Engineer | AI In Healthcare | Computer Vision | Machine Learning | Data Science | NLP Engineer </h3>
+<h3 align="center">Researcher & Development Engineer | AI In Healthcare | Computer Vision | Machine Learning | Data Science | AI Engineer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/Mubashar-Mehmood/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mubasharconnect" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nouman-ahmad" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
    <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharmehmood7&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharmehmood7" /> </p>
 
  
 &nbsp;***Talking about Personal Stuffs...***
