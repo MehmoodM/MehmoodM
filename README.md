@@ -19,7 +19,7 @@
    <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharmehmood7&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharmehmood7" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharmehmood7&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharmehmood7" /> </p>  -->
 
  
 &nbsp;***Talking about Personal Stuffs...***
