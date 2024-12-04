@@ -37,8 +37,8 @@
 ⭐ Supervised ⭐ Unsupervised Learning ⭐ Data Clustering  <br>
 ⭐ Scikit-Learn ⭐ Matplotlib ⭐ Seaborn ⭐ SciPy  <br>
 ⭐ Numpy ⭐ Pandas ⭐ Datascience ⭐ Beautiful Soup  <br>
-⭐ Python ⭐ Matlab ⭐ Android ⭐ Flutter Application  <br>
-⭐ Flask ⭐ Django ⭐ Tkinter GUI ⭐ Web Scraping ⭐ And more...  <br> <br> <br> <br>
+⭐ Python ⭐ Matlab ⭐ Android <br>
+⭐ Flask ⭐ Streamlit ⭐ Web Scraping ⭐ And more...  <br> <br> <br> <br>
 
 
 
